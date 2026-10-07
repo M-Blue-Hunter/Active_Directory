@@ -58,8 +58,8 @@ Compromised Domain Account
 
 | Component         | Value                         |
 | ----------------- | ----------------------------- |
-| Domain            | `dc2.purplelab.local`         |
-| Domain Controller | `192.168.56.126`              |
+| Domain            | `Domain.local`         |
+| Domain Controller | `10.10.10.10`              |
 | Attacker          | Kali Linux                    |
 | Kerberos Tooling  | Rubeus / Impacket             |
 | SIEM              | Splunk                        |
